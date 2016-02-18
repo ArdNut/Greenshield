@@ -14,3 +14,14 @@ Media, Inc., ISBN: 978-1-4919-2176-0.
 
 If you feel your use of code examples falls outside fair use or the permission
 given above, feel free to contact permissions@oreilly.com.
+
+## How to build the code
+
+All you need to do is download the source as a zip file (there is a button
+that will do that for you), and then unzip it into a directory called
+"Greenshield" in your Arduino "sketchbook" directory.
+
+You will need the DHT11 and DHT22 libraries (in the "Libraries" repository).
+
+Refer to Chapter 10 for instructions on how to test the code to verify that
+it is working correctly with the hardware.
