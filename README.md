@@ -2,7 +2,7 @@
 
 This repository contains the source code for the Greenshield Arduino shield.
 
-Created for chapter 10 of "Arduino in a Nutshell" by J. M. Hughes
+Created for chapter 10 of "Arduino: A Technical Reference" by J. M. Hughes
 
 Copyight 2015-2016 John M. Hughes
 
